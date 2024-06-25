@@ -64,7 +64,7 @@ section:first-of-type {
     flex-direction: column;
     margin-left: 17vh;
     width: 34vh;
-    margin-top: 30vh;
+    margin-top: 40vh;
     height: 100vh;
 }
 
@@ -91,7 +91,7 @@ article:first-of-type {
     display: flex;
     width: 35vw;
     margin-left: 30vh;
-    margin-top: 28vh;
+    margin-top: 60vh;
     margin-bottom: 30vh;
 }
 
